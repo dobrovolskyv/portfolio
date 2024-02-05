@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.856e96af.css",
+    "main.js": "/static/js/main.266e5f1d.js",
+    "static/media/runner.png": "/static/media/runner.333d59dcc2295846d3a9.png",
+    "static/media/kdv.png": "/static/media/kdv.4bea8c5c1938e74e4f7e.png",
+    "static/media/jointpro.png": "/static/media/jointpro.da1b10327042dfb67426.png",
+    "static/media/img1.png": "/static/media/img1.6a6e4288ad8f2df5b1a5.png",
+    "index.html": "/index.html",
+    "main.856e96af.css.map": "/static/css/main.856e96af.css.map",
+    "main.266e5f1d.js.map": "/static/js/main.266e5f1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856e96af.css",
+    "static/js/main.266e5f1d.js"
+  ]
+}
